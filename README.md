@@ -5,7 +5,7 @@ The app is designed to be easy to use, even for low-literacy users, with clear i
 
 🚀 Live Demo
 
-👉 https://trackdiabities.streamlit.app/
+👉 https://daily-sugar-guidance.streamlit.app/
 
 ✨ Features
 
